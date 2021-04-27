@@ -11,6 +11,8 @@ let bookList = [
     pages: 560,
   },
   { title: "Akira", author: "Katsuhiro Otomo", pages: 160 },
+  {title: "The Outsiders", author:"Kelly", pages:360}
+  
 ];
 
 
